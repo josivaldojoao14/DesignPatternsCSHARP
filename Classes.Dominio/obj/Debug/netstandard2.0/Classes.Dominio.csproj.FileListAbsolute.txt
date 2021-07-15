@@ -1,0 +1,9 @@
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\bin\Debug\netstandard2.0\Classes.Dominio.deps.json
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\bin\Debug\netstandard2.0\Classes.Dominio.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\bin\Debug\netstandard2.0\Classes.Dominio.pdb
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.csprojAssemblyReference.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.AssemblyInfoInputs.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.AssemblyInfo.cs
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Dominio\obj\Debug\netstandard2.0\Classes.Dominio.pdb

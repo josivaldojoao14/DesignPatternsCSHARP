@@ -1,0 +1,15 @@
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\Classes.Infra.deps.json
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\Classes.Infra.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\ref\Classes.Infra.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\Classes.Infra.pdb
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\Classes.Dominio.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\bin\Debug\net5.0\Classes.Dominio.pdb
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.csprojAssemblyReference.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.AssemblyInfoInputs.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.AssemblyInfo.cs
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.csproj.CopyComplete
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\ref\Classes.Infra.dll
+C:\Users\Josivaldo\source\repos\DesignPatterns\Classes.Infra\obj\Debug\net5.0\Classes.Infra.pdb
